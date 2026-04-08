@@ -1,0 +1,29 @@
+Product Documentation - AI SaaS Platform
+
+Overview
+This platform provides AI-powered analytics for business teams.
+
+Features
+- Real-time data insights
+- Automated reporting
+- Custom dashboards
+- API integrations
+
+User Roles
+- Admin: Full access to system settings
+- Analyst: Can create and view reports
+- Viewer: Read-only access
+
+API Usage
+The platform provides REST APIs for data ingestion and analytics queries.
+
+Security
+All data is encrypted in transit and at rest. Role-based access control is enforced.
+
+Pricing Plans
+- Free Tier: Limited usage
+- Pro Plan: Advanced analytics and integrations
+- Enterprise: Custom features and dedicated support
+
+Support
+Users can contact support via email or live chat.
