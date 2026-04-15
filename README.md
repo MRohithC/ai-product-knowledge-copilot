@@ -1,4 +1,4 @@
-# AI Log Analysis
+# AI Product Knowledge Copilot
 
 An AI-powered assistant that answers questions over product documentation using a LangGraph workflow, retrieval system, and FastAPI backend.
 
